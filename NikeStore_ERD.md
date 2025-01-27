@@ -1,5 +1,5 @@
-
 erDiagram
+
     PRODUCT {
         string id PK "Product ID"
         string name "Product Name"
